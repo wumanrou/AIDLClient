@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AIDLClient</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="getData">获取其他应用程序信息</string>
+    <string name="getName">歌曲名</string>
+    <string name="getAuthor">演唱者</string>
+</resources>
